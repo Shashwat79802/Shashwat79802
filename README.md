@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shashwat79802
 - 🌱 I’m currently learning Java and DSA.
-- 💞️ I’m looking to contribute on Open Source Projects.
+- 💞️ Just started with open-source contribution in the Java-TheAlgorithms repository and looking for more to contribute.
 - 📫 You can reach me via instagram and twitter-shashwat_g27
 - ✍️ Technical Blogging @Medium - https://medium.com/@shashwatg79802 & @hashnode - https://shashwat27.hashnode.dev/
 <!---
