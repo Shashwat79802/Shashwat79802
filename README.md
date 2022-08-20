@@ -25,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- icons with padding -->
 
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[1.1]: https://imgur.com/gallery/EtM1AKs (twitter icon with padding)
 [6.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
 
 <!-- icons without padding -->
