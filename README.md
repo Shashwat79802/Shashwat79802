@@ -26,11 +26,11 @@ You can click the Preview link to take a look at your changes.
 
 <h4> IDE </h4>
 <span>
+<img src = "https://img.shields.io/badge/-IntelliJ%20Idea-grey?style=for-the-badge&logo=intellij%20idea">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-<img src = " https://img.shields.io/badge/-IntelliJ%20Idea-black?style=for-the-badge&logo=intellijidea">
 </span
 
-<br>
+<br><br>
 
 
 
