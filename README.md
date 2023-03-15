@@ -17,13 +17,18 @@ You can click the Preview link to take a look at your changes.
 ## Tech Stack 
 
 <div align="left">  
+<img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" alt = "django" height="70" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" height="50" />
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" height="50" /> 
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="JavaScript" height="50" />  
 <img style = "margin : 10px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" height="60" />
 <img style = "margin : 10px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" height="50" />
+<img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" alt = "git" height="50" />
 <img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "github" height="60" />
+<img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" alt = "css3" height="60" />
 <img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt = "css3" height="60" />
+<img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt = "css3" height="60" />
+
 
  
 </div>
