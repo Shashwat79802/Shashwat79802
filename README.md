@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Shashwat79802
-- 🌱 I’m currently learning Java and DSA.
+- 🌱 Learning backend using Django, practicing DSA.
 - 💞️ Just started with open-source contribution in the Java-TheAlgorithms repository and looking for more to contribute.
 - ✍️ Technical Blogging @Medium - https://medium.com/@shashwatg79802 & @hashnode - https://shashwat27.hashnode.dev/
 <!---
