@@ -22,7 +22,7 @@ You can click the Preview link to take a look at your changes.
 <img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="JavaScript" height="50" />  
 <img style = "margin : 10px" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt = "mysql" height="60" />
 <img style = "margin : 10px" src = "https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt = "git" height="50" />
-<img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt = "github" height="60" />
+<img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt = "github" height="60" />
 <img style = "margin : 10px" src = "https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" alt = "css3" height="60" />
 
  
